@@ -1,0 +1,44 @@
+import torch
+from torch.utils.data import Dataset
+
+class CoS_E(Dataset):
+    """
+    This is a pytorch dataset for CoS_E, which will be used for training the probe.
+    It is recommended to tokenize the input tex and extract the features beforehand
+    to avoid these 2 procedures being repeated  by 'self.tokenizer' and
+    'self.feature_extractor', namely, setting 'tokenizer' and 'feature_extractor' 
+    to None is best practice.
+    """
+
+    def __init__(self, df_cose, str_cols, tokenizer=None, feature_extractor = None) -> None:
+        """
+        Attributes
+        ------
+        df_cose: pd.DataFrame
+            The data for CoS-E.
+        str_cols: List[str]
+            The columns of the question, choices and explanations. 
+        """
+        super().__init__()
+        self.df_cose = df_cose
+        self.str_cols = str_cols
+        self.tokenizer = tokenizer
+        self.feature_extractor = feature_extractor
+
+    
+    def __getitem__(self, idx):
+        data_slice = self.df_cose[idx]
+        if self.tokenizer:
+            data_slice[self.str_cols] = \
+                data_slice[self.str_cols].apply( \
+                lambda x: [self.tokenizer(s) for s in x])
+        if self.feature_extractor:
+            data_slice[self.str_cols] = \
+                data_slice[self.str_cols].apply( \
+                lambda x: [self.feature_extractor(s) for s in x])
+        """
+        TODO: 
+        1. determine input strings
+        2. add paddings to input strings
+        """    
+        
