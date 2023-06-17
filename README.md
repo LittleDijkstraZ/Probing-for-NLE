@@ -11,6 +11,12 @@
         - [ ] Build a pipeline to enable GPT to reply to a dataset of queries.
 
 - An explanation dataset
+    - [ ] Implement the COS-E dataset
+        - [x] run the [scipt](data\cos-e\code\parse-commonsenseQA.py) to combine the original COS dataset and the human annotated explanations from COS-E into a csv file.
+        - [ ] write a dataset class
+            - [ ] retrieving a batch of Q+A+E 
+            - [ ] tokenization and embedding
+             
     - [ ] Implement e-SNLI dataset
 
 - SHAP score calculation

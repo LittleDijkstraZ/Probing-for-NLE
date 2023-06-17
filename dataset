@@ -41,4 +41,5 @@ class CoS_E(Dataset):
         1. determine input strings
         2. add paddings to input strings
         """    
+        # determine input strings
         
