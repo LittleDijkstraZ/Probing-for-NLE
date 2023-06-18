@@ -56,7 +56,7 @@
                 - Calculate SHAP for the explanations as well
             - Steps:
                 - (Optional) Use the original model's final feature embeddings 
-                - Calculate SHAP score for both the $E_m$ and the all choices $A$
+                - Calculate model $M$'s SHAP score for both the $E_m$ and the all choices $A$ from input $Q$
                 - Probe for Highest SHAP of $Q$ with respect to $E_m$ given $E_m$ and $Q$
                 - Probe for max SHAP score's difference between $Q \rightarrow a_m$ and $Q \rightarrow E_m$ given $Q$, $E_m$ and $a_m$ 
         - Solution 2 (ref. leakage-adjusted simulatability):
