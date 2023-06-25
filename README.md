@@ -51,6 +51,12 @@
             - Loss Function: MSE(RNN($E_m$) - max_shap)
 - Issues:
     1. For extractive question answering, there's a context for which SHAP score can be based on. But for commonsense reasoning, extra knowledge is required. Hence, merely providing $Q$ for SHAP score calculation might be a problem.
+        - Solution 0:
+            - Ideas:
+                - Start with extractive question answering: Q+C -> E+A
+            - Steps:
+                - Obtain highest SHAP for the question and the context SHAP(Q,C|A_m)
+                - Train a probe for predicting the highest SHAP given the explanation
         - Solution 1:
             - Ideas:
                 - Calculate SHAP for the explanations as well
@@ -66,8 +72,8 @@
                 - May need to emphasize that the explanation is subjected to the question
                 - May also try models other than GPT-4, could be as simple as LSTM
             - Steps:
-                - Send $Q$ and $E$ to GPT-4
-                - Calculate GPT-4's SHAP score for $A$ given $Q$ and $E$ 
+                - Send $Q$ and $E$ to GPT-4/T5/LSTM
+                - Calculate GPT-4/T5/LSTM's SHAP score for $A$ given $Q$ and $E$ 
                 - Given $Q$ and $E_m$, probe for word level SHAP scores for each $a_i \in A$
 
 ---
