@@ -1,6 +1,12 @@
 # Probing-for-NLE
 
 ## TODO:
+- Baseline:
+    - [x] Setup Dataset for Movie Review
+    - [x] Implement GPT4 for explanation generation
+    - [x] Calculate Shap score for the generated explanations (kinda hard)
+    - [ ] Improve the query pipeline by accumulating a batch of queries to send to GPT 4
+    - [ ] Build dataset as Query + Explanation ->
 
 - An explanation model
     - [ ] Some T5 based model
@@ -8,7 +14,7 @@
         - Possible implementations: WT5, Leakage-adjusted ...
     - [ ] GPT
         - [x] Need to setup a secret key before use 
-        - [ ] Build a pipeline to enable GPT to reply to a dataset of queries.
+        - [x] Build a pipeline to enable GPT to reply to a dataset of queries.
 
 - An explanation dataset
     - [ ] Implement the COS-E dataset
