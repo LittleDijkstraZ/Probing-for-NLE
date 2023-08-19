@@ -1,4 +1,4 @@
-few_shot_samples = """
+few_shot_exp_samples = few_shot_samples = """
 Question: Where does water in the sky come from?
 Choices: ['1. space', '2. rain cloud', '3. surface of earth', '4. wishing well', '5. lake or river']
 Answer: 5. lake or river
@@ -10,3 +10,22 @@ Answer: 1. chess set
 Explanation: Because a chess set is a collection of chess pieces, it would be a good place to store a chess pawn when it is not being used. 
 
 """
+
+few_shot_QA_samples = \
+"""
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: ['chess set', 'strategy', 'toy store', 'chess game', 'small case']
+Answer: chess set
+
+"""
+
+
+# Please provide an answer to the following questions like the above examples:
+# Question: Where does water in the sky come from?
+# Choices: ['space', 'rain cloud', 'surface of earth', 'wishing well', 'lake or river']
+# Answer: lake or river
+
+# few_shot_QA_samples = \
+# """
+# Copy the correct answer from the choices:
+# """

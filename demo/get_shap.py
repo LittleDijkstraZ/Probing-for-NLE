@@ -44,9 +44,9 @@ if __name__ == '__main__':
 
     df = pd.read_csv('../COS-E_7191_7184_nle.csv')
     # s_range = range(0, len(df)//4 * 1)
-    s_range = range(len(df)//4 * 1, len(df)//4 * 2)
+    # s_range = range(len(df)//4 * 1, len(df)//4 * 2)
     # s_range = range(len(df)//4 * 2, len(df)//4 * 3)
-    # s_range = range(len(df)//4 * 3, len(df))
+    s_range = range(len(df)//4 * 3, len(df))
 
     # s_range = range(0, 10)
     # s_range = range(10, 20)
