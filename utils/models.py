@@ -22,7 +22,7 @@ def get_openllama_auto(model_path = 'openlm-research/open_llama_3b'):
     # model_path = 'openlm-research/open_llama_7b'
     from transformers import AutoTokenizer, AutoModelForCausalLM
 
-    tokenizer = AutoTokenizer.from_pretrained("openlm-research/open_llama_3b")
+    tokenizer = AutoTokenizer.from_pretrained("openlm-research/open_llama_3b", legacy=False)
     generator = AutoModelForCausalLM.from_pretrained(
         "openlm-research/open_llama_3b", torch_dtype=torch.float16,
     )
