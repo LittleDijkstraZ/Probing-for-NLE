@@ -1,4 +1,5 @@
 
+__all__ = ['create_choices', 'create_choices_2']
 import torch
 
 def get_gpt_j():
@@ -42,9 +43,9 @@ def get_gpt2():
     
     from transformers import AutoTokenizer, AutoModelForCausalLM
 
-    tokenizer = AutoTokenizer.from_pretrained("sileod/deberta-v3-base-tasksource-nli")
+    tokenizer = AutoTokenizer.from_pretrained("gpt2")
     generator = AutoModelForCausalLM.from_pretrained(
-        "sileod/deberta-v3-base-tasksource-nli", torch_dtype=torch.float16,
+        "gpt2", torch_dtype=torch.float16,
     )
     return generator, tokenizer
 

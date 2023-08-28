@@ -1,0 +1,1161 @@
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What home entertainment equipment requires cable?
+Choices: radio shack, substation, cabinet, television, desk
+Answer: cable.
+<|endoftext|>
+cable
+4
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What will happen to skin pinched in something?
+Choices: feel cold, feel pressure, feel bumpy, itches, feel clammy
+Answer: It will start to hurt.
+<|endoftext|>
+it will start to hurt
+88
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: Letters are sometimes delivered by hand through one of these.
+Choices: mail box, suitcase, front door, bowl, post office
+Answer: mailbox
+<|endoftext|>
+mailbox
+106
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What would happen to a person if his or her money is stolen?
+Choices: complete sentence, feel angry, drink tea, cross street, park
+Answer: If the person's money is stolen, they would feel angry, cross the street
+chess set
+141
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What do rich people like in terms of bagels?
+Choices: poor, sleepy, plain, needy, homeless
+Answer: Poor people like plain bagels.
+<|endoftext|>
+poor people like plain bagels
+68
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What might two people competing get into?
+Choices: stress, debate, argument, winning or losing, tension
+Answer: arguing.
+<|endoftext|>
+arguing
+72
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: The person knew the police were after him, so what did he do?
+Choices: the sun, catch cold, prepare to go, feel humiliated, hunt for food
+Answer: The person knew the police were after him, so he prepared to go and felt
+chess set
+97
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What do humans do when in a race?
+Choices: lay eggs, eat fruit, wrestle, compete with each other, draw pictures
+Answer: humans usually compete with each other to draw pictures.
+<|endoftext|>
+humans usually compete with each other to draw pictures
+123
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: The lady was getting worked up about the article explaining the uptick in accidents in their area, but her husband was dismissive of it stating that accidents what?
+Choices: happen to people, hurt people, happen anytime, happen often, happen anywhere
+Answer: accidents what?
+<|endoftext|>
+accidents what?
+139
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: The policemen wanted to clear the scene of the accident, so what did they do to traffic?
+Choices: hurry along, direct traffic, help, force open door, corner thief
+Answer: hurry along, direct traffic, help.
+<|endoftext|>
+hurry along, direct traffic, help
+15
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What happens when you take a shower after going for a run?
+Choices: feeling refreshed, becoming tired, restlessness, leg cramps, sweating
+Answer: Feeling refreshed, becoming tired, restlessness, leg cramps, and sweating.
+chess set
+106
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What would you tell ali to do if he bumps into you when you are walking?
+Choices: work hard, slow down, wear shoes, sell products, speed up
+Answer: work hard, slow down, wear shoes, sell products.
+<|endoftext|>
+work hard, slow down, wear shoes, sell products
+122
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: John hated mosquitoes.  It wasn't the bloodsucking that he disliked, it was that the insects made what?
+Choices: fly, buzz, move, honey, help flowers pollenate
+Answer: pollenate
+<|endoftext|>
+pollenate
+131
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What did the business require of everyone walking into their store?
+Choices: wear shoes, learn, hope for peace, have a great day, do well
+Answer: everyone needed to wear shoes and learn.
+<|endoftext|>
+everyone needed to wear shoes and learn
+137
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: They took a break from all the rides to have lunch, while eating hamburger they talked about how they were going to what on the next ride?
+Choices: heartburn, have fun, enjoy, gas, food poisoning
+Answer: fun
+<|endoftext|>
+fun
+27
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What is the result of instituting civil action?
+Choices: bad feelings, confusion, going to court, hurt feelings, sandwiches
+Answer: Civil action can result in bad feelings, confusion, going to court, and hurt
+chess set
+36
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: How can you get the attention of a person across the room?
+Choices: board ship, shout at, smile at, cross street, feel happy
+Answer: cross the street.
+<|endoftext|>
+cross the street
+41
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What do people want to do when they love a place that they are going on vacation in?
+Choices: pleasant thoughts, overspending, moving there, staying there, debt
+Answer: stay there and enjoy the place.
+<|endoftext|>
+stay there and enjoy the place
+43
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: The friends loved competing against one another, it was a good way to work their what?
+Choices: friendship, aggression, defeat, winning or losing, sweat
+Answer: winning
+<|endoftext|>
+winning
+66
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: The star had 4 rocky planets and 4 gaseous planets orbiting it, what was it part of
+Choices: hollywood, night sky, constellation, aliens, solar system
+Answer: The star had 4 rocky planets and 4 gaseous planets orbiting it, part
+chess set
+76
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: How can a person end up stopping standing in  puddle?
+Choices: move away from, laying in, sweating, movement, walking out of
+Answer: walking out of the puddle.
+<|endoftext|>
+walking out of the puddle
+96
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What do all rooms facing outside have?
+Choices: square shape, different sizes, flowers, doors and windows, high walls
+Answer: windows.
+<|endoftext|>
+windows
+14
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: Why would I want to be exercising?
+Choices: fatigue, relaxation, tiredness, muscle weakness, losing weight
+Answer: To lose weight.
+<|endoftext|>
+to lose weight
+19
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What will happen to your knowledge with more learning?
+Choices: headaches, bigger brain, education, growth, knowing more
+Answer: Education. With more learning, your knowledge will increase and you will gain new skills
+chess set
+22
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: Collections of atoms called molecules make up everything you can hold in your what?
+Choices: atom, anything, air, feet, hands
+Answer: atoms.
+<|endoftext|>
+atoms
+46
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: There are a lot of ways to relax, for this person it is simply opening one up and what?
+Choices: more rice, own house, warm coat, light up, read book
+Answer: reading book
+<|endoftext|>
+reading book
+53
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: Who does the government help with schools?
+Choices: school children, parents, get money, require to pay taxes, take money
+Answer: school children and their parents.
+<|endoftext|>
+school children and their parents
+72
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: James wanted to stop competing.  What might he have been feeling?
+Choices: pressure, death, trying harder, quitting, winning or losing
+Answer: winning
+<|endoftext|>
+winning
+83
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: Along what feature will you find a rosebush?
+Choices: park, in the ground, hedgerow, temperate climate, botanical gardens
+Answer: In the hedgerow.
+<|endoftext|>
+in the hedgerow
+86
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What could happen to you after you see some beautiful clouds above you?
+Choices: plain, cold, dull, bad, wet
+Answer: Rain.
+<|endoftext|>
+rain
+105
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What can happen after doing housework that does not involve pain?
+Choices: become tired, stress, put on shoes, backache, low pay
+Answer: Become tired, stress, put on shoes, backache.
+<|endoftext|>
+become tired, stress, put on shoes, backache
+115
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What do people who are celebrating in a bar do sometimes?
+Choices: drink too much, eat cake, getting drunk, eat cake, having sex
+Answer: eating cake.
+<|endoftext|>
+eating cake
+118
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: Some people really loved beer, they call it what gold?
+Choices: alcohol in, intoxicating, liquid, hair of the dog, harmful
+Answer: beer
+<|endoftext|>
+beer
+131
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: Fencing is a sport in which participants use a what?
+Choices: sword, competition, fence post, protection, dexterity
+Answer: fencing is a sport in which participants use a sword.
+<|endoftext|>
+fencing is a sport in which participants use a sword
+139
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: Where on the upper body do people want to remove hair?
+Choices: arm, mammals, person's head, mammoth trunk, sink
+Answer: Mammal's head
+<|endoftext|>
+mammal's head
+47
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: Sally didn't know what she planned to do.  She was going to remodel her front garden, but she couldn't because of zoning rules.  Such was the perils of living where?
+Choices: outside of house, urban area, town hall, front yard, michigan
+Answer: outside of house, urban area, town hall.
+<|endoftext|>
+outside of house, urban area, town hall
+74
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: The great general had suffered his first defeat, it now seemed there was truly nobody his opponent couldn't what?
+Choices: win at jenga, victory, lose, winning, conquer
+Answer: losing
+<|endoftext|>
+losing
+95
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: People are genetically most likely to have this on top of their head?
+Choices: horns, two eyes, brown hair, drug problem, feelings
+Answer: People are genetically most likely to have two eyes and brown hair.
+<|endoftext|>
+people are genetically most likely to have two eyes and brown hair
+23
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: If something is very hard but you just manage to be able to do it, it can be called what?
+Choices: controvertible, interesting, easy, agreeable, bearable
+Answer: manageable
+<|endoftext|>
+manageable
+29
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What happens after eating dinner?
+Choices: heart burn, become tired, become full, flatulence, indigestion
+Answer: After eating dinner, the body begins to process the food and break down the nutrients
+chess set
+34
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: The picture was clear,. Obviously, there had been a what?
+Choices: murky, dirty, confusing, invisible, misunderstood
+Answer: Obviously, there had been a misunderstanding.
+<|endoftext|>
+obviously, there had been a misunderstanding
+68
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: The first or second floor is the safest from fire when you sleep where away from home?
+Choices: house, office building, parking space, school, hotel
+Answer: second floor
+<|endoftext|>
+second floor
+74
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What did the friendly man do when meeting knew people to show he was happy?
+Choices: say hello, start a conversation, introducing yourself, shake hands, smiling
+Answer: introduced himself and shook hands.
+<|endoftext|>
+introduced himself and shook hands
+116
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: Success is usually a product of preparation and what?
+Choices: awards ceremony, various situations, vocation, working hard, promotion
+Answer: preparation and dedication.
+<|endoftext|>
+preparation and dedication
+129
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What is it called when two people have the same point of view?
+Choices: make love, when they hug, shake hands, agree with each other, work together
+Answer: Consensus.
+<|endoftext|>
+consensus
+137
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: The dog loved to run after ball, it would do it over and over until it would what?
+Choices: get tired, ball stopped, fall and hurt yourself, breathe, catching
+Answer: catch
+<|endoftext|>
+catch
+147
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What does eating lunch accomplish?
+Choices: having energy, satisfy hunger, feel full, feel sleepy, drowsiness
+Answer: Eating lunch accomplishes providing energy, satisfying hunger, and feeling full. It also
+chess set
+19
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: John plays brass instruments in a band that has a lot of diverse people in it and many different instruments.   They mostly play at clubs.  What sort of band might he be in.
+Choices: rubber band, annoy mom, brass band, marching band, jazz band
+Answer: John is in a brass band.
+<|endoftext|>
+john is in a brass band
+26
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What do you want to do when you go to performance that is interactive?
+Choices: know where, leave, experience, applaud, admiration
+Answer: applause
+<|endoftext|>
+applause
+65
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What does someone committing perjury likely doing?
+Choices: great anxiety, lies, guilt, testify, object
+Answer: lie
+<|endoftext|>
+lie
+66
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: Where does a person use an expressway to get around quickly?
+Choices: medium, country, eastern united states, american city, michigan
+Answer: expressway.
+<|endoftext|>
+expressway
+126
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What is a positive feeling that you might get after going jogging?
+Choices: heart rate increases, heart attacks, sweating, sore feet, feel pride
+Answer: positive feeling after jogging includes increased heart rate, heart attacks, sweating, and
+chess set
+138
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: John slept on a mat along with other children. Where is john?
+Choices: bathroom, school, sleeping, living room, doorway
+Answer: John is sleeping in the doorway.
+<|endoftext|>
+john is sleeping in the doorway
+153
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: James was cooling off in the pool on a hot summer day.  Why might have he been doing that?
+Choices: sweating, relaxation, revenge, shivering, loss of heat
+Answer: James was cooling off in the pool on a hot summer day.
+<|endoftext|>
+james was cooling off in the pool on a hot summer day
+43
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: Where might a bald eagle soar in clear skies?
+Choices: nature preserve, mountainous area, in washington, soup, colorado in washington
+Answer: Colorado
+<|endoftext|>
+colorado
+98
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What do you need to do to be able to have lunch?
+Choices: get food, eat food, stop working, spend money, prepare food
+Answer: stop working and spend money.
+<|endoftext|>
+stop working and spend money
+146
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: When you examine thing at a store for a long time you feel this?
+Choices: know what, angry, might want, interested in, interesting
+Answer: interested
+<|endoftext|>
+interested
+3
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: John loved plants because of how they look.  What part does John like best?
+Choices: flower petals, cut off limbs, bloom, grow in garden, have roots
+Answer: roots
+<|endoftext|>
+roots
+8
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What is a square constructed of?
+Choices: peanut butter and chocolate, four right angles, four corners, squarial, four sides
+Answer: Square
+<|endoftext|>
+square
+17
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What is a negative effect of getting divorce that does not involve people other than the person getting divorced?
+Choices: lot of grief, freedom, happiness, no spouse, children suffer
+Answer: No spouse, children suffer
+<|endoftext|>
+no spouse, children suffer
+52
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What is a farmer growing in Illinois or Iowa?
+Choices: grow plants, seed plants, seed crops, grow animals, raise corn
+Answer: corn
+<|endoftext|>
+corn
+60
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: The antarctic ocean touches a few others, but the next in line alphabetically is which one?
+Choices: indian ocean, atlantic, antarctic, medium, pacific
+Answer: antarctic ocean
+<|endoftext|>
+antarctic ocean
+101
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: What negative emotions or feelings can learning cause?
+Choices: gaining knowledge, effectiveness, distress, dysfunction, happiness
+Answer: Learning can cause distress, dysfunction, and unhappiness.
+<|endoftext|>
+learning can cause distress, dysfunction, and unhappiness
+102
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: Everyone is special. Everyone has what?
+Choices: feelings, unique personality, values, experiences, different standards
+Answer: Everyone has feelings.
+<|endoftext|>
+everyone has feelings
+111
+>>>>>>>>>>>>>>model answer not found>>>>>>>>>>>>>>
+
+Question: Where does water in the sky come from?
+Choices: space, rain cloud, surface of earth, wishing well, lake or river
+Answer: lake or river
+
+Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+Choices: chess set, strategy, toy store, chess game, small case
+Answer: chess set
+
+Please choose the correct answer for the following questions in the same format as the above:
+
+Question: Someone is putting is carpeting that can handle shoes and heavy foot traffic, where is it being installed?
+Choices: gym, home or office, bedroom, church, houses
+Answer: homes
+<|endoftext|>
+homes
+142
