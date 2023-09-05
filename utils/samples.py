@@ -38,16 +38,27 @@ Please choose an answer and provide an explanation for the following questions i
 # prompt for gpt-j to get a good answer, should be the same for everyone else
 fewshot_QA2_samples = """
 Question: Where does water in the sky come from?
-Choices: ['space', 'rain cloud', 'surface of earth', 'wishing well', 'lake or river']
+Choices: space; rain cloud; surface of earth; wishing well; lake or river;
 Answer: lake or river
 
 Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
-Choices: ['chess set', 'strategy', 'toy store', 'chess game', 'small case']
+Choices: chess set; strategy; toy store; chess game; small case;
 Answer: chess set
 
 Please choose the correct answer for the following questions in the same format as the above:
 
 """
+
+# Question: Where does water in the sky come from?
+# Choices: 'space', 'rain cloud', 'surface of earth', 'wishing well', 'lake or river'
+# Answer: lake or river
+
+# Question: If I wanted to store my chess pawn when I wasn't using it, what would be a good place for that?
+# Choices: 'chess set', 'strategy', 'toy store', 'chess game', 'small case'
+# Answer: chess set
+
+# Please choose the correct answer for the following questions in the same format as the above:
+
 
 fewshot_QAE3_samples_new = """
 Question: John cooled the steam. What did the steam become? Make a choice and provide an explanation.

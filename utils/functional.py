@@ -17,7 +17,12 @@ def create_choices_3(sample_df, add_prefix=True):
         return [" \n "+" \n ".join([f"{cx+1}. "+(sample[f"choice_{cx}"]).strip(".") for cx in range(5)]) for _,sample in sample_df.iterrows()]
     else:
         return [" \n "+" \n ".join([ (sample[f"choice_{cx}"]).strip(".") for cx in range(5)]) for _,sample in sample_df.iterrows()]
-
+    
+def create_choices_4(sample_df, add_prefix=True):
+    if add_prefix:
+        return [" ".join([f"{cx+1}. "+(sample[f"choice_{cx}"]).strip(".") + ";" for cx in range(5)]) for _,sample in sample_df.iterrows()]
+    else:
+        return [" ".join([(sample[f"choice_{cx}"]).strip(".") + ";" for cx in range(5)]) for _,sample in sample_df.iterrows()]
 
 def make_choice(sample_df):
     return [sample[f"choice_{sample['label']}"] for _,sample in sample_df.iterrows()]
@@ -46,3 +51,4 @@ def generate_fewshot_prompt_QA_new(few_shot_samples, input_premise, input_choice
     prompt = few_shot_samples + query
     return prompt
 
+# __all__ = ['create_choices', 'create_choices_2']

@@ -1,5 +1,4 @@
 
-__all__ = ['create_choices', 'create_choices_2']
 import torch
 
 def get_gpt_j():
@@ -49,3 +48,9 @@ def get_gpt2():
     )
     return generator, tokenizer
 
+def get_llama2():
+    from transformers import AutoTokenizer, AutoModelForCausalLM
+
+    tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
+    model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf", torch_dtype=torch.float16)
+    return model, tokenizer
