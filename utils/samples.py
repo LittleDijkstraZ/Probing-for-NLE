@@ -83,20 +83,66 @@ The best choice is 'produce heat'. This is because the ground pump can't produce
 """
 
 
-fewshot_QA3_samples_new = """
-Question: John cooled the steam. What did the steam become?
-Choices: 'condensate', 'electric smoke', 'smoke', 'liquid water', 'cold air'
-Best choice: liquid water
+# fewshot_QA3_samples_new = """
+# Question: John cooled the steam. What did the steam become?
+# Choices: 'condensate', 'electric smoke', 'smoke', 'liquid water', 'cold air'
+# Best choice: liquid water
 
-Question: Where would you buy jeans in a place with a large number of indoor merchants?
-Choices: 'shopping mall', 'laundromat', 'hospital', 'clothing store', 'thrift store'
-Best choice: shopping mall
+# Question: Where would you buy jeans in a place with a large number of indoor merchants?
+# Choices: 'shopping mall', 'laundromat', 'hospital', 'clothing store', 'thrift store'
+# Best choice: shopping mall
+
+# Question: I forgot to pay the electricity bill, now what can't I do with my ground pump?
+# Choices: 'put in to the water', 'cause fire', 'produce heat', 'short fuse', 'shock'
+# Best choice: produce heat
+
+# """
+
+# fewshot_QA3_samples_new = """
+# Question: John cooled the steam. What did the steam become?
+# Choices: 'condensate', 'electric smoke', 'smoke', 'liquid water', 'cold air'
+# Answer: 'liquid water'
+
+# Question: Where would you buy jeans in a place with a large number of indoor merchants?
+# Choices: 'shopping mall', 'laundromat', 'hospital', 'clothing store', 'thrift store'
+# Answer: 'shopping mall'
+
+# Question: I forgot to pay the electricity bill, now what can't I do with my ground pump?
+# Choices: 'put in to the water', 'cause fire', 'produce heat', 'short fuse', 'shock'
+# Answer: 'produce heat'
+
+# Please choose the correct answer for the following questions. Only the answer is required.
+
+# """
+# Zeroshot_QA_samples_new = """
+# Choose the most appropriate one from Choices for this question based on commonsense:
+# """
+Zeroshot_QA_samples_new = """
+Based on commonsense, please answer:
+"""
+
+falcon7b_Zeroshot_QA_samples_new = """
+Answer this quesiton based on commonsense:
+"""
+# >>CONTEXT<<
+# Based on commonsense, answer the question with only the correct choice:
+
+mpt7b_instruct_Zeroshot_QA_samples_new = """
+Based on commonsense:
+"""
+
+gpt_j_Zeroshot_QA_samples_new = """"""
+
+
+Oneshot_QA_samples_new = """
+Answer based on commonsense:
 
 Question: I forgot to pay the electricity bill, now what can't I do with my ground pump?
 Choices: 'put in to the water', 'cause fire', 'produce heat', 'short fuse', 'shock'
-Best choice: produce heat
+Answer: 'produce heat'
 
 """
+
 
 # Please choose the correct answer for the following questions in the same format as the above:
 

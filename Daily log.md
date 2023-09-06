@@ -1,4 +1,8 @@
+## 0905
+- may actually do the same thing for OpenLlama2 to fix the generation error.
+
 ## 0904
+- Turned out that models other than GPT-2 and GPT-J could work.
 - All effort just to figure out these lines of code, which make falcon-7b work:
 ```python
 from functools import wraps

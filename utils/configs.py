@@ -9,10 +9,11 @@ class config_base(dict):
         self['generation_configs'] = dict(
             num_beams=5,
             renormalize_logits=True,
-            no_repeat_ngram_size=8, 
-            # early_stopping=True,
+            no_repeat_ngram_size=10, 
+            early_stopping=True,
         )
 config = config_base()
 
 
 gpt_j_config = config_base()
+falcon7b_config = config_base()

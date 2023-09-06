@@ -1,6 +1,22 @@
 
 import torch
 
+def get_model_general(model_name):
+    from transformers import AutoTokenizer, pipeline
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    pipe = pipeline(
+        "text-generation",
+        model=model_name,
+        tokenizer=tokenizer,
+        torch_dtype=torch.float16,
+        trust_remote_code=True,
+        device_map="cuda:0",
+    )
+    tokenizer = pipe.tokenizer
+    model = pipe.model
+    return model, tokenizer
+
+
 def get_gpt_j():
     from transformers import AutoTokenizer, AutoModelForCausalLM
 
@@ -54,3 +70,5 @@ def get_llama2():
     tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
     model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf", torch_dtype=torch.float16)
     return model, tokenizer
+
+
