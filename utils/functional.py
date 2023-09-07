@@ -1,5 +1,3 @@
-
-
 def create_choices(sample_df, add_prefix=True):
     if add_prefix:
         return [str([f"{cx+1}. "+sample[f"choice_{cx}"] for cx in range(5)]) for _,sample in sample_df.iterrows()]
@@ -68,6 +66,9 @@ def mpt7b_instruct_generate_zeroshot_prompt_QA(few_shot_samples, input_premise, 
 
     prompt = few_shot_samples + query
     return prompt
+
+def mpt7b_instruct_get_answer_from_output_text(output_text):
+    pass
 
 def gpt_j_generate_zeroshot_prompt_QA(few_shot_samples, input_premise, input_choices, input_label, label_idx):
     query = f"{input_premise}\nChoose from: {input_choices}.\nBest answer choice:"
