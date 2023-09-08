@@ -1,5 +1,38 @@
+## 0807
+- updated the processing class, now supportting better shap generation
+- after max shap, added a shap counterfactual ratio value to generate
+- started generating shap values and it will take 10 hrs
+
+## 0906
+- tried mpt7b_instruct, save its life by:
+```python
+@wraps(org_forward)
+def forward_wrapped(*x, **y):
+    if 'position_ids' in y:
+        del y['position_ids']
+    return org_forward(*x, **y)
+```
+- made lots of modification to answer generation pipeline
+- created a class specific for all pre/post processing
+- started generating the explanation after the answer
+
 ## 0905
 - may actually do the same thing for OpenLlama2 to fix the generation error.
+- tried but not very successful with falcon-7b
+- Realized that I need to do this to make the teacher forcing wrapped model utilize the generation config:
+```python
+@wraps(org_generate)
+def _generate_wrapped(*x, **y):
+    for k in shap_gen_dict:
+        y[k] = shap_gen_dict[k]
+    return org_generate(*x, **y)
+
+@wraps(org__call__)
+def __call__wrapped(*x, **y):
+    for k in shap_gen_dict:
+        y[k] = shap_gen_dict[k]
+    return org__call__(*x, **y)
+```
 
 ## 0904
 - Turned out that models other than GPT-2 and GPT-J could work.
