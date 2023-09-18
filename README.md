@@ -1,4 +1,13 @@
-## 0807
+## 0908
+- max_shap_percent
+    - self shap prediction got 867 169 100 for mpt7b_instruct
+    - self shap prediction got 759 131 073 for mpt7b_instruct (6, 11, 11)
+- counterfactual_ratio
+    -  664 122 30
+
+- maybe should llm(question + clean_choices + nle) for getting a shap score for question + clean_choices
+
+## 0907
 - updated the processing class, now supportting better shap generation
 - after max shap, added a shap counterfactual ratio value to generate
 - started generating shap values and it will take 10 hrs
